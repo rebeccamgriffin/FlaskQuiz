@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Pumpkin's Multi Quiz</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/stylesheet_results.css') }}">
+        <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    </head>
+    <body>
+        <div>
+            <h1>Pumpkin's Results!</h1>
+            <br>
+            <h2>You scored {{ result }} out of {{ total }}!</h2>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+body {
+    background-color: #FFF0F5;
+}
+
+h1 {
+    color: #8B008B;
+    font-family: Calibri
+    font-size: 1818px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+h2 {
+    color: 	#9932CC;
+    font-family: Calibri
+    font-size: 1500px;
+    margin-left: 0px;
+}
+
+form {
+    color: 	#9932CC;
+    font-family: Calibri
+    font-size: 1200px;
+    margin-left: 100px;
+}
